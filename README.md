@@ -4,7 +4,7 @@
 
 ### by [Sagor-SUST](https://github.com/Sagor-SUST)
 
-![Problems Solved](https://img.shields.io/badge/Problems%20Solved-2-brightgreen?style=for-the-badge)
+![Problems Solved](https://img.shields.io/badge/Problems%20Solved-3-brightgreen?style=for-the-badge)
 ![Language](https://img.shields.io/badge/Language-C++-blue?style=for-the-badge&logo=cplusplus)
 ![Platform](https://img.shields.io/badge/Platform-LeetCode-orange?style=for-the-badge)
 
