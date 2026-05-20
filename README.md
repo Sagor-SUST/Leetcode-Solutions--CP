@@ -16,7 +16,7 @@
 
 | Total | Easy | Medium | Hard |
 |-------|------|--------|------|
-| 2     | 1    | 1      | 0    |
+| 3     | 1    | 2      | 0    |
 
 ---
 
@@ -27,6 +27,7 @@
 | # | Title | Solution | Runtime | Notes |
 |---|-------|----------|---------|-------|
 | 1910 | [Remove All Occurrences of a Substring](https://leetcode.com/problems/remove-all-occurrences-of-a-substring/) | [C++](Medium/1910-remove-all-occurrences-of-a-substring.cpp) | 0ms (Beats 100%) | String + erase |
+| 0011 | [Container With Most Water](https://leetcode.com/problems/container-with-most-water/description/) | [C++](Medium/0011-Container-With-Most-Water.cpp) | 0ms (Beats 100%) | arrat + binary |
 
 ---
 
